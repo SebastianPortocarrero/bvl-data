@@ -9,6 +9,13 @@
    "hasta": "1T2026"
   },
   {
+   "ticker": "BACKUSI1",
+   "empresa": "UNION DE CERVECERIAS PERUANAS BACKUS Y JOHNSTON S.A.A.",
+   "n_trimestres": 7,
+   "desde": "3T2024",
+   "hasta": "1T2026"
+  },
+  {
    "ticker": "CVERDEC1",
    "empresa": "SOCIEDAD MINERA CERRO VERDE S.A.A.",
    "n_trimestres": 21,
