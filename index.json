@@ -35,6 +35,13 @@
    "n_trimestres": 21,
    "desde": "1T2021",
    "hasta": "1T2026"
+  },
+  {
+   "ticker": "UNACEMC1",
+   "empresa": "UNACEM CORP S.A.A.",
+   "n_trimestres": 7,
+   "desde": "3T2024",
+   "hasta": "1T2026"
   }
  ]
 }
