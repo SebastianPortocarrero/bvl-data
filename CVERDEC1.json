@@ -5,7 +5,7 @@
  "moneda_eeff": "USD",
  "unidad": "millones (los EEFF de SMV vienen en miles; aquí ya convertidos)",
  "fuente": "SMV — Superintendencia del Mercado de Valores (EEFF oficiales)",
- "actualizado": "2026-07-09",
+ "actualizado": "2026-07-20",
  "n_trimestres": 21,
  "trimestres": [
   {

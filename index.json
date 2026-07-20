@@ -11,15 +11,15 @@
   {
    "ticker": "BACKUSI1",
    "empresa": "UNION DE CERVECERIAS PERUANAS BACKUS Y JOHNSTON S.A.A.",
-   "n_trimestres": 7,
-   "desde": "3T2024",
+   "n_trimestres": 21,
+   "desde": "1T2021",
    "hasta": "1T2026"
   },
   {
    "ticker": "CPACASC1",
    "empresa": "CEMENTOS PACASMAYO S.A.A.",
-   "n_trimestres": 7,
-   "desde": "3T2024",
+   "n_trimestres": 21,
+   "desde": "1T2021",
    "hasta": "1T2026"
   },
   {
@@ -39,15 +39,15 @@
   {
    "ticker": "SNJUANC1",
    "empresa": "CERVECERIA SAN JUAN S.A.",
-   "n_trimestres": 12,
-   "desde": "2T2023",
+   "n_trimestres": 21,
+   "desde": "1T2021",
    "hasta": "1T2026"
   },
   {
    "ticker": "UNACEMC1",
    "empresa": "UNACEM CORP S.A.A.",
-   "n_trimestres": 7,
-   "desde": "3T2024",
+   "n_trimestres": 16,
+   "desde": "2T2022",
    "hasta": "1T2026"
   }
  ]
