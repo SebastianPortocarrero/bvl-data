@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-07-09",
+ "actualizado": "2026-07-20",
  "tickers": [
   {
    "ticker": "ALICORC1",
@@ -39,8 +39,8 @@
   {
    "ticker": "SNJUANC1",
    "empresa": "CERVECERIA SAN JUAN S.A.",
-   "n_trimestres": 5,
-   "desde": "1T2025",
+   "n_trimestres": 12,
+   "desde": "2T2023",
    "hasta": "1T2026"
   },
   {
