@@ -37,6 +37,13 @@
    "hasta": "1T2026"
   },
   {
+   "ticker": "LUSURC1",
+   "empresa": "LUZ DEL SUR S.A.A.",
+   "n_trimestres": 18,
+   "desde": "3T2021",
+   "hasta": "1T2026"
+  },
+  {
    "ticker": "SNJUANC1",
    "empresa": "CERVECERIA SAN JUAN S.A.",
    "n_trimestres": 21,
