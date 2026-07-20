@@ -1,0 +1,218 @@
+{
+ "FERREYC1": {
+  "ticker": "FERREYC1",
+  "empresa": "FERREYCORP S.A.A.",
+  "historial": [
+   {
+    "fecha": "2026-07-20",
+    "precio": 4.25,
+    "moneda": "PEN",
+    "market_cap_M": 4020.8,
+    "ttm_hasta": "1T2026",
+    "n_trimestres_base": 21,
+    "pl": 10.299,
+    "pvp": 1.39,
+    "dy": 0.0721,
+    "ev_ebitda": 7.304,
+    "ev_ebit": 10.703,
+    "roe": 0.135,
+    "roic": 0.1134,
+    "margen_neto": 0.0501,
+    "margen_ebit": 0.0768,
+    "deuda_neta_ebit": 3.993,
+    "liquidez_corriente": 1.458,
+    "ingresos_ttm_M": 7798.1,
+    "utilidad_ttm_M": 390.4
+   }
+  ]
+ },
+ "ALICORC1": {
+  "ticker": "ALICORC1",
+  "empresa": "ALICORP S.A.A.",
+  "historial": [
+   {
+    "fecha": "2026-07-20",
+    "precio": 12.61,
+    "moneda": "PEN",
+    "market_cap_M": 7182.3,
+    "ttm_hasta": "1T2026",
+    "n_trimestres_base": 20,
+    "pl": 16.308,
+    "pvp": 6.141,
+    "dy": 0.0574,
+    "ev_ebitda": 6.248,
+    "ev_ebit": 10.461,
+    "roe": 0.3765,
+    "roic": 0.2078,
+    "margen_neto": 0.0364,
+    "margen_ebit": 0.086,
+    "deuda_neta_ebit": 3.56,
+    "liquidez_corriente": 0.777,
+    "ingresos_ttm_M": 12101.4,
+    "utilidad_ttm_M": 440.4
+   }
+  ]
+ },
+ "CVERDEC1": {
+  "ticker": "CVERDEC1",
+  "empresa": "SOCIEDAD MINERA CERRO VERDE S.A.A.",
+  "historial": [
+   {
+    "fecha": "2026-07-20",
+    "precio": 70,
+    "moneda": "USD",
+    "market_cap_M": 24503.9,
+    "ttm_hasta": "1T2026",
+    "n_trimestres_base": 21,
+    "pl": 16.432,
+    "pvp": 3.391,
+    "dy": 0.044,
+    "ev_ebitda": 8.209,
+    "ev_ebit": 10.62,
+    "roe": 0.2064,
+    "roic": 0.3511,
+    "margen_neto": 0.2984,
+    "margen_ebit": 0.4448,
+    "deuda_neta_ebit": -0.402,
+    "liquidez_corriente": 2.753,
+    "ingresos_ttm_M": 4998.0,
+    "utilidad_ttm_M": 1491.2
+   }
+  ]
+ },
+ "BACKUSI1": {
+  "ticker": "BACKUSI1",
+  "empresa": "UNION DE CERVECERIAS PERUANAS BACKUS Y JOHNSTON S.A.A.",
+  "historial": [
+   {
+    "fecha": "2026-07-20",
+    "precio": 25.6,
+    "moneda": "PEN",
+    "market_cap_M": 14579.6,
+    "ttm_hasta": "1T2026",
+    "n_trimestres_base": 21,
+    "pl": 4.393,
+    "pvp": 1.505,
+    "dy": 0.091,
+    "ev_ebitda": 3.517,
+    "ev_ebit": 3.838,
+    "roe": 0.3427,
+    "roic": 0.4027,
+    "margen_neto": 0.4093,
+    "margen_ebit": 0.4404,
+    "deuda_neta_ebit": -0.245,
+    "liquidez_corriente": 2.194,
+    "ingresos_ttm_M": 8106.9,
+    "utilidad_ttm_M": 3318.5
+   }
+  ]
+ },
+ "CPACASC1": {
+  "ticker": "CPACASC1",
+  "empresa": "CEMENTOS PACASMAYO S.A.A.",
+  "historial": [
+   {
+    "fecha": "2026-07-20",
+    "precio": 8,
+    "moneda": "PEN",
+    "market_cap_M": 3390.9,
+    "ttm_hasta": "1T2026",
+    "n_trimestres_base": 21,
+    "pl": 18.481,
+    "pvp": 2.663,
+    "dy": 0.1025,
+    "ev_ebitda": 8.646,
+    "ev_ebit": 12.154,
+    "roe": 0.1441,
+    "roic": 0.1484,
+    "margen_neto": 0.0844,
+    "margen_ebit": 0.18,
+    "deuda_neta_ebit": 3.485,
+    "liquidez_corriente": 1.173,
+    "ingresos_ttm_M": 2173.4,
+    "utilidad_ttm_M": 183.5
+   }
+  ]
+ },
+ "UNACEMC1": {
+  "ticker": "UNACEMC1",
+  "empresa": "UNACEM CORP S.A.A.",
+  "historial": [
+   {
+    "fecha": "2026-07-20",
+    "precio": 1.95,
+    "moneda": "PEN",
+    "market_cap_M": 3120.0,
+    "ttm_hasta": "1T2026",
+    "n_trimestres_base": 16,
+    "pl": 8.513,
+    "pvp": 0.521,
+    "dy": 0.041,
+    "ev_ebitda": 5.176,
+    "ev_ebit": 8.638,
+    "roe": 0.0612,
+    "roic": 0.0844,
+    "margen_neto": 0.0512,
+    "margen_ebit": 0.1325,
+    "deuda_neta_ebit": 5.347,
+    "liquidez_corriente": 0.929,
+    "ingresos_ttm_M": 7154.0,
+    "utilidad_ttm_M": 366.5
+   }
+  ]
+ },
+ "SNJUANC1": {
+  "ticker": "SNJUANC1",
+  "empresa": "CERVECERIA SAN JUAN S.A.",
+  "historial": [
+   {
+    "fecha": "2026-07-20",
+    "precio": 66,
+    "moneda": "PEN",
+    "market_cap_M": 5570.8,
+    "ttm_hasta": "1T2026",
+    "n_trimestres_base": 21,
+    "pl": 9.364,
+    "pvp": 20.121,
+    "dy": 0.0812,
+    "ev_ebitda": 7.914,
+    "ev_ebit": 8.162,
+    "roe": 2.1489,
+    "roic": 6.9306,
+    "margen_neto": 0.4243,
+    "margen_ebit": 0.4709,
+    "deuda_neta_ebit": -0.275,
+    "liquidez_corriente": 0.589,
+    "ingresos_ttm_M": 1402.3,
+    "utilidad_ttm_M": 594.9
+   }
+  ]
+ },
+ "LUSURC1": {
+  "ticker": "LUSURC1",
+  "empresa": "LUZ DEL SUR S.A.A.",
+  "historial": [
+   {
+    "fecha": "2026-07-20",
+    "precio": 12.68,
+    "moneda": "PEN",
+    "market_cap_M": 6174.5,
+    "ttm_hasta": "1T2026",
+    "n_trimestres_base": 18,
+    "pl": 8.365,
+    "pvp": 1.091,
+    "dy": 0.0211,
+    "ev_ebitda": 6.702,
+    "ev_ebit": 8.213,
+    "roe": 0.1305,
+    "roic": 0.1281,
+    "margen_neto": 0.1573,
+    "margen_ebit": 0.2689,
+    "deuda_neta_ebit": 3.319,
+    "liquidez_corriente": 0.484,
+    "ingresos_ttm_M": 4691.1,
+    "utilidad_ttm_M": 738.1
+   }
+  ]
+ }
+}
